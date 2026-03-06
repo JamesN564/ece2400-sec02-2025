@@ -2,6 +2,8 @@
 
 int avg(int x, int y) {
   // insert code to calculate average here
+  int z = (x + y)/2;
+  return z;
 }
 
 int main() {
